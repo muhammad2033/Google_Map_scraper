@@ -1,1 +1,2 @@
 # Google_Map_scraper
+Engaged in a Google Maps scraping project for a friend from the UK, my focus is on extracting comprehensive business details. This includes email, phone number, category, address, website, company name, and social media links (Facebook, Instagram, Twitter, YouTube, LinkedIn). Additionally, capturing information about services and the company's background provides a holistic overview. Adhering to legal and ethical guidelines, the project aims to tailor data extraction to meet the specific needs of businesses in the UK.
